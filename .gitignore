@@ -1,0 +1,23 @@
+# Bytecode Python
+__pycache__/
+
+# Checkpoints automáticos
+.ipynb_checkpoints/
+
+# Arquivos de dados
+*.csv
+*.tsv
+*.txt
+*.xls
+*.xlsx
+*.hdf5
+*.parquet
+*.pickle
+*.pkl
+*.db
+*.sqlite
+*.json
+*.png
+*.html
+
+ipython_bug.py
