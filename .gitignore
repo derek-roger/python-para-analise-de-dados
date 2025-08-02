@@ -19,5 +19,6 @@ __pycache__/
 *.json
 *.png
 *.html
-
+*.npy
+*.npz
 ipython_bug.py
