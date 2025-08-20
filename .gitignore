@@ -21,4 +21,23 @@ __pycache__/
 *.html
 *.npy
 *.npz
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.shp
+*.shx
+*.dat
+*.xml
+*.xsd
+*.h5
+
+# Outros formatos
+*.pdf
+*.jpg
+
+# Arquivos
 ipython_bug.py
+parse.py
+README
+frame_pickle
